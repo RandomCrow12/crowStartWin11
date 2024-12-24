@@ -6,6 +6,6 @@ After trying Arch, I found there was always just one more little problem that wo
 Additionally, my friends are becoming annoyed with it being a repeated dicussion topic due to my frustrations with a never-perfect OS. (It's really hard not to talk about it at all times.)
 Despite my shortcomings, I am still inspired to put my full work & support behind open source projects (from my disgustingly bloated proprietary OS lol).
 
-Suggestions for alternate apps: Ungoogled-Chomium, Spicetify, VSCodium
+Suggestions for alternate apps: Ungoogled-Chomium, Spicetify, VSCodium, Tor
 
 I was inspired instead to provide my best setup for Win11 from afresh installation, in case I or anyone else is in need. Enjoy :3
