@@ -8,4 +8,12 @@ Despite my shortcomings, I am still inspired to put my full work & support behin
 
 Suggestions for alternate apps: Ungoogled-Chomium, Spicetify, VSCodium, Tor
 
-I was inspired instead to provide my best setup for Win11 from afresh installation, in case I or anyone else is in need. Enjoy :3
+I was inspired instead to provide my best setup for Win11 from a fresh installation, in case I or anyone else is in need. Enjoy :3
+
+I can't compress the larger apps & don't want to use git lfs so:
+https://www.opera.com/gx
+https://store.steampowered.com/about/
+https://git-scm.com/downloads/win
+https://code.visualstudio.com
+https://discord.com/download
+https://betterdiscord.app
