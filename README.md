@@ -17,3 +17,4 @@ https://git-scm.com/downloads/win
 https://code.visualstudio.com
 https://discord.com/download
 https://betterdiscord.app
+https://firealpaca.com/download/
