@@ -18,3 +18,5 @@ https://code.visualstudio.com
 https://discord.com/download
 https://betterdiscord.app
 https://firealpaca.com/download/
+
+Update: I will turn this into a script at some point
